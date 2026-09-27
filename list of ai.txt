@@ -1,0 +1,14 @@
+FOOOCUS - image generator
+Wizard-Vicuna-13B - Uncensored text generator
+alpaca 13B - text generator
+
+gpt-oss:20b (medium-fast,text,thinking) - BEST
+dolphin-mistral:7b (fast,text,code,uncencored)
+cogito:14b (fast,text,thinking)
+deepseek-coder-v2:16b (fast,text,code)
+mistral-small:22b (slow,text,visual,thinking)
+mistral-nemo:latest (fast,text)
+qwen3:14b (fast,text,thinking)
+qwen3-vl:8b (fast,text,visual,thinking)
+deepseek-r1:8b (fast,text,thinking)
+deepseek-r1:14b (fast,text,thinking)
